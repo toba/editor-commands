@@ -1,3 +1,12 @@
+[![npm package](https://img.shields.io/npm/v/@toba/editor-commands.svg)](https://www.npmjs.org/package/@toba/editor-commands)
+[![Build Status](https://travis-ci.org/toba/editor-commands.svg?branch=master)](https://travis-ci.org/toba/editor-commands)
+![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+[![Dependencies](https://img.shields.io/david/toba/editor-commands.svg)](https://david-dm.org/toba/editor-commands)
+[![DevDependencies](https://img.shields.io/david/dev/toba/editor-commands.svg)](https://david-dm.org/toba/editor-commands#info=devDependencies&view=list)
+[![Test Coverage](https://codecov.io/gh/toba/editor-commands/branch/master/graph/badge.svg)](https://codecov.io/gh/toba/editor-commands)
+
+<img src='https://toba.github.io/about/images/logo-colored.svg' width="100" align="right"/>
+
 # prosemirror-commands
 
 [ [**WEBSITE**](http://prosemirror.net) | [**ISSUES**](https://github.com/prosemirror/prosemirror/issues) | [**FORUM**](https://discuss.prosemirror.net) | [**GITTER**](https://gitter.im/ProseMirror/prosemirror) | [**CHANGELOG**](https://github.com/ProseMirror/prosemirror-commands/blob/master/CHANGELOG.md) ]
